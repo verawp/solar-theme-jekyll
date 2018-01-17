@@ -1,6 +1,6 @@
 name: Vera Pfeiffer
 url: http://example.org
-description: A stylish blog using the Solarized color palette
+description: My first blog site
 
 permalink: /:year/:month/:day/:title/
 paginate: 10

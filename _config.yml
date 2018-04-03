@@ -1,6 +1,6 @@
 name: Vera Pfeiffer
 url: http://example.org
-description: My first blog site
+description: Research Projects
 
 permalink: /:year/:month/:day/:title/
 paginate: 10
